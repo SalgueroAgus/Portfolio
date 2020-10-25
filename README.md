@@ -2,7 +2,7 @@
 
 ![React JS Portfolio Website](README.png?raw=true "React JS Portfolio Website")
 
-### <a href="https://salgueroagustin-portfolio.000webhostapp.com/">LIVE DEMO</a>
+### <a href="https://salgueroagus.github.io/Portfolio/">LIVE DEMO</a>
 
 ## Description
 
