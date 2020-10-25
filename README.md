@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a ReactJS based personal portfolio website. Because data is fed directly from a  JS File, this means that this means you can use and customize it for personal use by simply filling your own personal info into the resumeData.js file and the changes will be dynamically fed into the site. If you would like to use this template for your own personal resume website, read on to learn how to build your own copy.
+This is a ReactJS based personal portfolio website. Data is fed directly from a  JS File, this means that you can customize it for personal use by simply filling your own personal info into the resumeData.js file and the changes will be dynamically fed into the site. If you would like to use this template for your own personal resume website, read on to learn how to build your own copy.
 
 ## Make it Your Own!
 
